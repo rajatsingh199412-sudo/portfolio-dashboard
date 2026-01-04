@@ -43,6 +43,11 @@ st.markdown("""
         border-radius: 10px;
         border-left: 5px solid #3B82F6;
         margin: 1rem 0;
+        color: #1E293B;
+    }
+    
+    .info-box p, .info-box ul, .info-box li {
+        color: #1E293B !important;
     }
     .skill-tag {
         background-color: #DBEAFE;
